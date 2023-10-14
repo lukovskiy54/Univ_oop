@@ -30,9 +30,6 @@ public class Book
     [JsonPropertyName("Name")]
     public string Title { get; set; }
     public PublishingHouse PublishingHouse { get; set; }
-
-    
-    
 }
 
 
